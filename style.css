@@ -1,5 +1,6 @@
 html{
     background-color: black;
+    font-size: 1vw;
 }
 
 div {
@@ -21,7 +22,7 @@ h1{
 }
 
 p {
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 img {
